@@ -1,0 +1,9 @@
+name: jax_playground
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - jax
+  - matplotlib
+  - gym
